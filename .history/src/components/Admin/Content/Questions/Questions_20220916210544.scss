@@ -1,0 +1,11 @@
+.questions-container {
+    padding: 15px;
+    .title {
+        margin-bottom: 15px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .questions-content {
+        display: flex;
+    }
+}
