@@ -1,0 +1,14 @@
+.dashboard-container {
+    padding: 15px;
+    .title {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .content {
+        display: flex;
+        .c-left {
+            width: 50%;
+            border: 1px solid green;
+        }
+    }
+}
